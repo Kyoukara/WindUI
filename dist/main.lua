@@ -5,7 +5,7 @@
     |__/|__/_/_//_/\_,_/\____/___/
 
 
-    v1.6.65  |  2026-09-16  |  Roblox UI Library for scripts
+    v1.6.66  |  2026-09-16  |  Roblox UI Library for scripts
 
 
     This project is a customized version maintained by Flycer.
@@ -2480,7 +2480,7 @@ New=a.load'j'.New
 return[[
 {
     "name": "windui",
-    "version": "1.6.65",
+    "version": "1.6.66",
     "main": "./dist/main.lua",
     "repository": "https://github.com/Footagesus/WindUI",
     "discord": "https://discord.gg/ftgs-development-hub-1300692552005189632",
