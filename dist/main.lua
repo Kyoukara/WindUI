@@ -4,7 +4,7 @@
     | |/ |/ / / _ \/ _  / /_/ // /  
     |__/|__/_/_//_/\_,_/\____/___/
     
-    v1.6.65  |  2026-07-01  |  Roblox UI Library for scripts
+    v1.6.65  |  2026-09-16  |  Roblox UI Library for scripts
     
     To view the source code, see the `src/` folder on the official GitHub repository.
     
@@ -3635,6 +3635,7 @@ return ah
 end end function a.s()
 
 
+
 local aa=a.load'd'
 local ab=a.load'r'
 
@@ -4008,6 +4009,7 @@ return ag
 end
 
 return aa end function a.v()
+
 return function(aa,ab)
 return{
 Dark={
@@ -5177,6 +5179,7 @@ return ae.Configs[ag]
 end
 
 return ae end function a.A()
+
 local aa={}
 
 local ab=a.load'd'
